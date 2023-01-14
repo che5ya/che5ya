@@ -3,7 +3,7 @@
 * 📢 :  정욱조, Pedro, Peter, che5ya (origin from 'Cheshire')
 * 💬 : 한국어, English
 * 🌏 :  Seoul, Republic of Korea
-* 📞 : [Discord Tag](CHE5YA#3223)
+* 📞 : Discord Tag: CHE5YA#3223
 
 ---
 
