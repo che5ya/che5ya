@@ -1,20 +1,48 @@
-### Hi Everyone 👋
+# Hola¿ Que Tal?👋
 
+* 📢 :  정욱조, Pedro, Peter, che5ya (origin from 'Cheshire')
+* 💬 : 한국어, English
+* 🌏 :  Seoul, Republic of Korea
+* 📞 : [Discord Tag](CHE5YA#3223)
 
-I am a frontend developer based in Korea, my work is focusing on creating UI for dashboards and systems and making it easier for users to use them.
-I hope my codes and npm, pub.dev packages I made will good for you.
+---
 
+#### 관리 템플릿, 대시보드 UI 제작에 흥미를 느낌 
+수많은 개발 분야 중, 웹 프론트엔드 기술을 사용해 관리 템플릿, 대시보드 UI 등 B2B 서비스를 만들고 고도화하는데 집중하고 있습니다.
 
-### What I'm up to
+#### 다양한 분야에 관심 많음
+개발은 물론 취미나 관심사, 예술, 인문학 등 다양한 분야에 얕고 넓은 지식을 갖고 있습니다. 
 
-Currently I'm focusing on the company's project I'm working for.
-And i'm preparing to tidy up [vue-slim-stackedbar](https://www.npmjs.com/package/vue-slim-stackedbar) and [flutter_daum_postcode](https://pub.dev/packages/flutter_daum_postcode)
-This package has changed a lot compared to its original content as it was used for the company's project I'm working for.
+#### 의로운 원칙주의자
+원리, 원칙을 중요하게 여기며, 나의 행동이 악의 편에 서지 않도록 노력합니다.
 
-### Click here to see the cute resume
-[Click me! (lang: KO-KR)](https://che5ya.notion.site/UI-UX-4ddca2d3b2af4e9cb6d53f050bb7d505)
+#### 느리지만 정확한 거북이
+빠르게 배우지 못하고, 무언가를 익히는 데 어려움이 드는 편이지만
+한 번 제대로 익힌 것은 깊이 있게 이해하며 적절하게 사용합니다.
 
+#### 소방수
+경험과 직관, 가진 능력을 총동원해 다른 이들을 돕거나 문제를 목표 기한 내 빠르게 처리하는 것을 좋아하고 잘 합니다.
 
-### Let's talk
+---
 
-You can message to me on [facebook](https://www.facebook.com/che5ya) or message to me on [twitch](https://www.twitch.tv/che5ya).
+### 관심있는 것
+* 수영
+* 자전거 여행
+* 전동킥보드 라이딩
+* 사진
+	* 필름 사진
+		* 120, 135에 관심
+	* 디지털 사진
+		* Micro Four Thirds Mount Mirrorless
+		* Android base Mirrorless
+* PC 게임
+	* Steam
+* 밀리터리
+	* 전차
+	* 보병장비
+	* 군복/장구류
+* 인터넷 방송
+	* Twitch
+* 올드맥
+	* PowerPC G5 Mac
+* 최신 기술 또는 최신 하드웨어 (얼리어댑터)
