@@ -34,7 +34,6 @@
 		* 120, 135에 관심
 	* 디지털 사진
 		* Micro Four Thirds Mount Mirrorless
-		* Android base Mirrorless
 * PC 게임
 	* Steam
 * 밀리터리
@@ -46,3 +45,8 @@
 * 올드맥
 	* PowerPC G5 Mac
 * 최신 기술 또는 최신 하드웨어 (얼리어댑터)
+* 수집/소장용 옛날 장비로 "이상한" 짓 하기
+	* 삼성 UMPC Q1 Ultra에 새 배터리, SSD와 Windows 8.1 설치해서 고전게임 돌리기(?)
+	* Android Based Mirrorless에 Minecraft 서버 열기(??)
+	* 마지막 윈도우 모바일폰 Lumia 950XL에 Windows on Arm 설치하고 웹서버로 활용하기(???)
+	* 소장중인 올드맥에 ppc용 우분투 설치해서 웹개발 클라이언트로 활용하기 (????)
