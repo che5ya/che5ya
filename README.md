@@ -1,9 +1,9 @@
 # Hola¿ Que Tal?👋
 
-* 📢 :  정욱조, Pedro, Peter, che5ya (origin from 'Cheshire')
-* 💬 : 한국어, English
-* 🌏 :  Seoul, Republic of Korea
-* 📞 : Discord Tag: CHE5YA#3223
+📢 :  정욱조, Pedro, Peter, che5ya (origin from 'Cheshire')
+💬 : 한국어, English
+🌏 :  Seoul, Republic of Korea
+📞 : Discord Tag: CHE5YA#3223
 
 ---
 
@@ -30,20 +30,10 @@
 * 자전거 여행
 * 전동킥보드 라이딩
 * 사진
-	* 필름 사진
-		* 120, 135에 관심
-	* 디지털 사진
-		* Micro Four Thirds Mount Mirrorless
 * PC 게임
-	* Steam
 * 밀리터리
-	* 전차
-	* 보병장비
-	* 군복/장구류
 * 인터넷 방송
-	* Twitch
 * 올드맥
-	* PowerPC G5 Mac
 * 최신 기술 또는 최신 하드웨어 (얼리어댑터)
 * 수집/소장용 옛날 장비로 "이상한" 짓 하기
 	* [삼성 UMPC Q1 Ultra](https://ko.wikipedia.org/wiki/%EC%84%BC%EC%8A%A4_Q1_%EC%9A%B8%ED%8A%B8%EB%9D%BC)에 새 배터리, SSD와 Windows 8.1 설치해서 고전게임 돌리기(?)
