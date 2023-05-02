@@ -33,10 +33,5 @@
 * PC 게임
 * 밀리터리
 * 인터넷 방송
-* 올드맥
-* 최신 기술 또는 최신 하드웨어 (얼리어댑터)
-* 수집/소장용 옛날 장비로 "이상한" 짓 하기
-	* [삼성 UMPC Q1 Ultra](https://ko.wikipedia.org/wiki/%EC%84%BC%EC%8A%A4_Q1_%EC%9A%B8%ED%8A%B8%EB%9D%BC)에 새 배터리, SSD와 Windows 8.1 설치해서 고전게임 돌리기(?)
-	* [Android Based Digital Camera](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%202)에 Minecraft 서버 열기(??)
-	* 마지막 윈도우 모바일폰 [Lumia 950XL](https://namu.wiki/w/Lumia%20950(%EC%A0%9C%ED%92%88%EA%B5%B0)#s-3.2)에 [Windows on Arm](https://learn.microsoft.com/ko-kr/windows/arm/overview) 설치하고 웹서버로 활용하기(???)
-	* [소장중인 PPC G5 올드맥](https://apple-history.com/g5_late_05)에 [SSD](https://www.youtube.com/watch?v=6WHxmrT7SBM), [루분투](http://mirror.datto.com/ubuntu-releases/lubuntu/releases/16.04.1/release/) 설치해서 웹개발 클라이언트로 활용하기 (????)
+* 최신 기술 또는 최신 하드웨어
+* 오래된 장비로 (비교적) 최신 기술 구동하기
