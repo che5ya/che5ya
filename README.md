@@ -3,9 +3,6 @@
 * Vue.js를 중점적으로 사용하고 있습니다.
 * 프론트엔드 이외의 것들도 하고 있습니다만 웹 프론트엔드가 주입니다.
 
-## Stats
-![che5ya's GitHub stats](https://github-readme-stats.vercel.app/api?username=che5ya&hide=contribs,prs)
-
 ## 소개
 ### 서비스 기획 및 설계
 * SI 프로젝트 기획자 경험을 통해 프로젝트의 초기 기획 및 설계가 가능하며, 와이어프레임 기반 프로토타이핑 결과물을 만들 수 있음.
