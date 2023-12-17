@@ -1,7 +1,10 @@
-# About Che5ya
+# About che5ya
 * 프론트엔드 하고 있는 개발자입니다.
 * Vue.js를 중점적으로 사용하고 있습니다.
 * 프론트엔드 이외의 것들도 하고 있습니다만 웹 프론트엔드가 주입니다.
+
+## Stats
+![che5ya's GitHub stats](https://github-readme-stats.vercel.app/api?username=che5ya&hide=contribs,prs)
 
 ## 소개
 ### 서비스 기획 및 설계
