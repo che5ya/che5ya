@@ -28,7 +28,8 @@
   * 케어스퀘어 프론트엔드 개발자
     * 아임파인 닥터 서비스 개발
       * 프론트엔드 개발 (Vue.js CDN, Vue.js v2 & v3 SPA, go-astilectron based)
-      * 백엔드 개발 (go-astilectron) 
+      * 백본 기능 개발 (go-astilectron)
+      * 백엔드 개발 (golang)
     * 도즈이즈 서비스 프론트엔드 개발 (Vue.js v2 SPA)
 * 2018.04 ~ 2021.04
   * 아이넷캅 프론트엔드 개발자
