@@ -43,7 +43,7 @@
 * makeasy
   * 업무에 사용하거나 개발에 도움을 줬던 함수를 모아 라이브러리로 제작
   * 지속적인 업데이트 예정. 문서 및 코멘트, 테스트 코드 작성 중
-  * [https://github.com/che5ya/makeasy](https://github.com/team-chesters/makeasy)
+  * [https://github.com/team-chesters/makeasy](https://github.com/team-chesters/makeasy)
 * vue-slim-stackedbar (2019)
   * 아이넷캅 재직 당시, 사내 서비스에 사용하기 위해 개발
   * 코드 리팩토링 및 기능 개선을 준비하고 있습니다.
