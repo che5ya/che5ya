@@ -24,6 +24,9 @@
   * 최근에는 golang으로 구성하는 웹 서버와 powerpc 아키텍처에서의 minecraft server 세팅에 관심이 있습니다.
 
 ## 경력
+* 2024.03 ~ (현재)
+  * 센싱플러스 웹 개발자
+    * (TBA)
 * 2021.05 ~ 2023.12
   * 케어스퀘어 프론트엔드 개발자
     * 아임파인 닥터 서비스 개발
@@ -44,14 +47,6 @@
   * 업무에 사용하거나 개발에 도움을 줬던 함수를 모아 라이브러리로 제작
   * 지속적인 업데이트 예정. 문서 및 코멘트, 테스트 코드 작성 중
   * [https://github.com/team-chesters/makeasy](https://github.com/team-chesters/makeasy)
-* vue-slim-stackedbar (2019)
-  * 아이넷캅 재직 당시, 사내 서비스에 사용하기 위해 개발
-  * 코드 리팩토링 및 기능 개선을 준비하고 있습니다.
-  * https://github.com/che5ya/vue-slim-stackedbar
-* Github gists (2023~)
-  * 개발하면서 만든 함수, 기능 컴포넌트를 정리하고 있습니다.
-  * 정리 후 점차 추가될 예정입니다.
-  * https://gist.github.com/che5ya
 
 ## 연락처
 * email: che5ya@naver.com
